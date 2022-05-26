@@ -1,9 +1,9 @@
-import App from "./2.reactivity/4.Array_object.svelte";
+import App from "./5.binding/5.Textarea_inputs.svelte";
 
 const app = new App({
   target: document.body,
   props: {
-    name: "world",
+    // name: "world",
   },
 });
 
