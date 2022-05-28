@@ -1,4 +1,4 @@
-import App from "./5.binding/6.Select_bindings.svelte";
+import App from "./5.binding/14.Binding_component_instances.svelte";
 
 const app = new App({
   target: document.body,
