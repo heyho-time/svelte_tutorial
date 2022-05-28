@@ -1,4 +1,4 @@
-import App from "./5.binding/5.Textarea_inputs.svelte";
+import App from "./5.binding/6.Select_bindings.svelte";
 
 const app = new App({
   target: document.body,

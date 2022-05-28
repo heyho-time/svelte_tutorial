@@ -1,4 +1,5 @@
-~Logic / keyed each blocks
+~ Logic / keyed each blocks
+~ Bindings/ Textarea inputs
 
 ---
 
