@@ -1,5 +1,7 @@
 ~ Logic / keyed each blocks
 ~ Bindings/ Textarea inputs
+~ Bindings
+~ lifecycle
 
 ---
 
