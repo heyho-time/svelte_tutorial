@@ -1,4 +1,4 @@
-import App from "./6.lifecycle/4.tick.svelte";
+import App from "./7.store/2.readable_store/App.svelte";
 
 const app = new App({
   target: document.body,
