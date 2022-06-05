@@ -1,4 +1,4 @@
-import App from "./7.store/2.readable_store/App.svelte";
+import App from "./8.motion/Spring.svelte";
 
 const app = new App({
   target: document.body,
