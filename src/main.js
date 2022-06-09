@@ -1,4 +1,4 @@
-import App from "./8.motion/Spring.svelte";
+import App from "./9.transition/3.InAndOut.svelte";
 
 const app = new App({
   target: document.body,
